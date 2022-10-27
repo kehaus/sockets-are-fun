@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+client class to allow for TCP control of python objects from host computer
+
+
 example from here:
     https://realpython.com/python-sockets/
 
