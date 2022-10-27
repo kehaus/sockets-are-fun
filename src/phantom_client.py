@@ -81,8 +81,8 @@ class PhantomClient():
 
 if __name__ == "__main__":
         
-    host = '127.0.0.1'  # The server's hostname or IP address
-    port = 65448        # The port used by the server
+    host = '192.168.1.143'  # The server's hostname or IP address
+    port = 65451        # The port used by the server
 
     
     
